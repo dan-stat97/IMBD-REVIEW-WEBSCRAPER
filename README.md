@@ -16,10 +16,10 @@ Results
 1. Successfully developed a web scraping tool that extracts movie reviews from IMDb.
 2. Collected a dataset of approximately 10,000 movie reviews.
 
-Discussion
+<h6>Discussion</h6>
 The web scraping tool developed in this project has demonstrated its ability to effectively extract movie reviews from IMDb. The collected dataset provides valuable insights into movie sentiment and reviewer demographics. Further analysis of this dataset could lead to the development of predictive models for movie ratings and sentiment.
 
-Conclusion
+<h6>Conclusion</h6>
 The IMDb movie review web scraping project has successfully achieved its objectives of developing a web scraping tool, cleaning and organizing extracted data, and analyzing the data to gain insights. The project has demonstrated the potential of web scraping techniques to collect and analyze large datasets from the web. The insights gained from this project can be used to inform marketing strategies, product development, and customer relationship management initiatives.
 
 Recommendations
